@@ -3,71 +3,68 @@
     {
       "title": "Coming Soon",
       "subTitle": "Coming Soon",
-      "imgPath": "./images/coming-soon.jpeg"
+      "imgPath": "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     },
     {
       "title": "Coming Soon",
       "subTitle": "Coming Soon",
-      "imgPath": "./images/coming-soon.jpeg"
+      "imgPath": "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     },
     {
       "title": "Coming Soon",
       "subTitle": "Coming Soon",
-      "imgPath": "./images/coming-soon.jpeg"
+      "imgPath": "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     },
     {
       "title": "Coming Soon",
       "subTitle": "Coming Soon",
-      "imgPath": "./images/coming-soon.jpeg"
+     "imgPath": "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     },
     {
       "title": "Coming Soon",
       "subTitle": "Coming Soon",
-      "imgPath": "./images/coming-soon.jpeg"
+      "imgPath": "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     },
     {
       "title": "Coming Soon",
       "subTitle": "Coming Soon",
-      "imgPath": "./images/coming-soon.jpeg"
+      "imgPath": "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     },
     {
       "title": "Coming Soon",
       "subTitle": "Coming Soon",
-      "imgPath": "./images/coming-soon.jpeg"
+     "imgPath": "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     },
     {
       "title": "Coming Soon",
       "subTitle": "Coming Soon",
-      "imgPath": "./images/coming-soon.jpeg"
+     "imgPath": "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     }
   ],
   "sponsors": {
     "slide1": [
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg"
+    "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     ],
     "slide2": [
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg"
+      "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     ],
     "slide3": [
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg",
-      "./images/coming-soon.jpeg"
+      "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg",
+       "https://raw.githubusercontent.com/ahmed-menisy/data-json/main/images/coming-soon.jpeg"
     ]
   }
 }
